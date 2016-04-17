@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Superstition Mountains]]></title>
+        <description><![CDATA[Superstition Mountains]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 17:53:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is about the Superstition Mountains. </p>]]></description>
+            <link>undefineda9c9a51c-34fe-4d63-b7df-2eb56bdf4609/index.html</link>
+            <guid isPermaLink="false">a9c9a51c-34fe-4d63-b7df-2eb56bdf4609</guid>
+            <pubDate>Sun, 17 Apr 2016 17:53:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
